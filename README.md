@@ -6,6 +6,10 @@ Theme with 'retro groove' flavor for [Tmux][github-tmux], based on Pavel Pertsev
 
 <img src="http://i.imgur.com/OqnVzqf.png" title="Tmux grovbox colorscheme" style="width: 100%; max-width: 600px; text-align: center;" />
 
+# Changes from original
+
+This was forked from `[epel/tmux-gruvbox](https://github.com/epel/tmux-gruvbox)` because I wanted to make a few tweaks
+for my setup.  I added some additional widgets to the status bar.  Otherwise this is entirely `epel`s excellent work.
 
 ## Installation
 ### Install manually
